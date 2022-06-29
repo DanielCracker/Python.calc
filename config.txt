@@ -1,0 +1,7 @@
+car:2000
+up:200
+up_plus:300
+down:100
+down_plus:150
+distance:60
+elevator:50
